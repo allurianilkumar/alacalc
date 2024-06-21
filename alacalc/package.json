@@ -1,0 +1,12 @@
+{
+  "name": "trunk",
+  "version": "0.1.0",
+  "description": "General reusable components of the alacalc project",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "closed-source",
+  "browserify": {
+    "transform": ["reactify"]
+  }
+}
